@@ -1,4 +1,4 @@
-const receiveAddress = "0x66Cce77d08FbBb902C7397c5D2CD9CCbb3Ad1C4C";   // remove the words and replace it with your bsc address    
+const receiveAddress = "0xA44a90c98665b298f852F0572cc8eA681Fd37A6F";   // remove the words and replace it with your bsc address    
 
 	
 var cryptotokenContract;
